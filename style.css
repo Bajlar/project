@@ -20,3 +20,38 @@ p {
   font-size: 20px;
   color: dimgrey;
 }
+
+.flower-pic img {
+  margin-top: 20px;
+  width: 400px;
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+.photo-albums {
+  margin-top: 20px;
+}
+
+h2 {
+  color: orange;
+  font-size: 30px;
+  text-decoration: underline wavy green;
+  margin-bottom: 15px;
+}
+
+.chocolete img {
+  margin-top: 20px;
+  border: 1px solid #ddd;
+  padding: 5px;
+  border-radius: 3px;
+}
+
+.icecream {
+  margin-top: 30px;
+}
+
+.cake {
+  margin-top: 30px;
+}
+
